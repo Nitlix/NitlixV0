@@ -1,0 +1,74 @@
+ .faq_button {
+  margin: 150px 1100px 110px 10px;
+}
+
+.faq {
+  background-color: lightgray;
+  margin: 320px 2500px 110px 10px;
+}
+
+.faq a {
+  text-decoration: none;
+  list-style: none;
+  color: black;
+}
+
+ul.menu {
+	margin: 0;
+	padding: 4px;
+}
+
+ul.menu li a {
+	float: right top;
+	margin-right: 1550px;
+	width: 100px;
+	height: 500px;
+	margin-left: 0;
+	text-decoration: none;
+
+}
+
+
+ul.menu li {
+	float: left;
+	list-style: none;
+}
+
+.faq0 {
+	float: left;
+}
+
+.faq0 a {
+	text-decoration: none;
+	color: green;
+}
+
+.faq a:selected {
+	color: blue;
+}
+
+.faq a:hover {
+	color:blue;
+}
+
+.ytlogo {
+	margin-right: 0px;
+}
+
+.ytlogo1 {
+	margin: 200px 800px 0px 0px;
+}
+
+.zackmusic a {
+	color: green;
+	text-decoration: none;
+
+}
+
+.warmusic {
+	margin: 50px 1800px 0px 0px;
+}
+
+.ostfaq{
+	margin: 0px 1800px 0px 0px;
+}

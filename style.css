@@ -1,0 +1,128 @@
+* {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+
+.main {
+	background-color: #fff;
+}
+
+.header {
+	margin-right: 0px;
+	margin-left: 0px;
+	float: top;
+	height: 245px;
+}
+
+ul.menu {
+	margin: 0;
+	padding: 4px;
+}
+
+ul.menu li a {
+	float: right top;
+	margin-right: 1550px;
+	width: 100px;
+	height: 500px;
+	margin-left: 0;
+	text-decoration: none;
+
+}
+
+
+ul.menu li {
+	float: left;
+	list-style: none;
+}
+
+.latest {
+	margin: 290px 800px 0px 0px ;
+}
+
+.text {
+	background-color: lightgray;
+	border: 2px solid gray;
+	border-radius: 5px;
+	font: normal 150%;
+	margin-right: 500px;
+	margin-top: 50px;
+}
+
+.text0 {
+	background-color: white;
+}
+
+.text1 {
+	background-color: lightgray;
+	border: 2px solid gray;
+	border-radius: 5px;
+	font: normal 150%;
+	margin-right: 500px;
+}
+
+.text2 {
+	background-color: lightgray;
+	border: 2px solid gray;
+	border-radius: 5px;
+	font: normal 150%;
+	margin-right: 500px;
+}
+
+.main2 {
+	margin-top: 230px;
+}
+
+.smal_cart {
+float: right ;
+height: 55px;
+padding: 10px;
+margin-top: 0px;
+padding-left: 15px;
+margin: 10px;
+border: 1px solid gray;
+border-radius: 10px;
+background: #fff;
+text-decoration: none;
+}
+
+.ranks {
+	margin: 0px 800px 0px 0px;
+}
+
+.textwork {
+	margin-right: 0px;
+	margin-top: 277px;
+	font-size: normal 200%;
+}
+
+
+.faq_button {
+	margin: 150px 1100px 110px 10px;
+}
+
+.faq {
+	border: 2px solid gray;
+	border-radius: 5px;	
+	background-color: lightgray;
+	margin: 320px 2500px 110px 10px;
+}
+
+.faq a {
+	text-decoration: none;
+	list-style: none;
+	color: black;
+}
+
+.faq1 {
+	border: 2px solid gray;
+	border-radius: 5px;	
+	background-color: lightgray;
+	margin-right : 2500px;
+}
+
+.faq1 a {
+	text-decoration: none;
+	list-style: none;
+	color: black;
+}

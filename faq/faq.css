@@ -1,0 +1,35 @@
+.faq_button {
+  margin: 150px 1100px 110px 10px;
+}
+
+.faq0 {
+  background-color: lightgray;
+  margin: 320px 2500px 110px 10px;
+}
+
+.faq0 a {
+  text-decoration: none;
+  list-style: none;
+  color: black;
+}
+
+ul.menu {
+	margin: 0;
+	padding: 4px;
+}
+
+ul.menu li a {
+	float: right top;
+	margin-right: 1550px;
+	width: 100px;
+	height: 500px;
+	margin-left: 0;
+	text-decoration: none;
+
+}
+
+
+ul.menu li {
+	float: left;
+	list-style: none;
+}
